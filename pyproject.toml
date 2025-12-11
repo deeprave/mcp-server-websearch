@@ -1,5 +1,5 @@
 [project]
-name = "mcp-server-websearch"
+name = "mcp-websearch"
 version = "0.1.0"
 description = "Minimal web search MCP server using DDGS (DuckDuckGo)"
 requires-python = ">=3.10"
